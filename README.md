@@ -54,9 +54,9 @@ Soy desarrollador/a de software apasionado/a por crear soluciones tecnológicas 
 
 ## Contacto
 
-- Email: tuemail@dominio.com
-- LinkedIn: [linkedin.com/in/TU_USUARIO](https://linkedin.com/in/TU_USUARIO)
-- GitHub: [github.com/TU_USUARIO](https://github.com/TU_USUARIO)
+- Email: tbs47@hotmail.com
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harinson-palacios-renteria-698965118/)
+- GitHub: [github.com/HarinsonDev30](https://github.com/HarinsonDev30)
 
 ---
 
